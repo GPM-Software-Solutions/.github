@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://gpmsoftwares.com/images/logos/products/gpm-logo.svg" width="180" alt="GPM Software Solutions Logo" />
+</p>
+
 # 🚀 GPM Software Solutions
 
 Chúng tôi xây dựng **phần mềm theo yêu cầu và các giải pháp tự động hóa** giúp doanh nghiệp tối ưu quy trình, nâng cao hiệu suất và mở rộng quy mô hiệu quả.
